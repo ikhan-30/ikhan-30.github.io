@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #f4f4f4;
+    background: #eabdff;
   }
   
   header {
-    background-color: #7505ff;
+    background-color: #9500ff;
     color: #fff;
     padding: 1em 0;
   }
@@ -23,7 +23,7 @@ body {
   }
   
   nav ul li a {
-    color: #f5c7ff;
+    color: #fff;
     text-decoration: none;
     font-weight: bold;
   }

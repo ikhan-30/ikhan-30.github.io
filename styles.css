@@ -32,7 +32,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffd700; /* Change color on hover */
+    color: #b82ee7; /* Change color on hover */
 }
 
 /* Main content styling */
@@ -67,7 +67,7 @@ article {
 }
 
 h2 {
-    color: #9400ff;
+    color: #000000;
 }
 
 h3 {

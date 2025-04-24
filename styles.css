@@ -1,3 +1,4 @@
+/* Body background color: Lilac */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -7,7 +8,7 @@ body {
 
 /* Header and Navigation styling */
 header {
-    background-color: #383838; 
+    background-color: #484848; 
     color: #fff;
     padding: 1em 0;
 }

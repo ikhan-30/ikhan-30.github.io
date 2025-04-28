@@ -73,6 +73,9 @@ h2 {
 h3 {
     margin-top: 20px;
 }
+nav ul li a:hover {
+    color: #b82ee7; /* Change color on hover */
+}
 
 /* Responsive design for small screens */
 @media (max-width: 600px) {
